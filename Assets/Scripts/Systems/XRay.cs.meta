@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3e6de75046bb0d5429116d48e5ac3af8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - XRayInput: {fileID: 5693819834520273958, guid: 6d593e13acc5a6b45a29b1615d8b057c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
